@@ -1,0 +1,7 @@
+.DS_Store
+.hidden/
+.idea/
+section_saved/*
+to_share/*
+my_work/*
+!my_work/.keep
