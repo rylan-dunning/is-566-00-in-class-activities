@@ -9,15 +9,20 @@ from car_sales
 limit 2;
 
 
--- Write a query to extract the dealership and date fields from the SRC column, along with 
--- the name of the salesperson from the SALESPERSON_INFO column.
+-- Write a query to extract the dealership and date fields 
+-- from the SRC column, along with the name of the salesperson
+-- from the SALESPERSON_INFO column.
 -- 
--- Then modify your query to drive the year of the sale from the date column.
+-- Then modify your query to derive the year of the sale from the
+-- date column.
 
 select 
-    * 
+    SRC:dealership as DEALERSHIP,
+    SRC:date::date as DATE,
+    SRC:salesperson.name as SALESPERSON,
+    YEAR(DATE) as SALE_YEAR
 from car_sales 
-limit 2;
+limit 3;
 
 
 -- Write a query to count the number of promotions (PROMOTIONS) applied to 
@@ -61,11 +66,25 @@ from car_sales
 limit 2;
 
 
--- Using LATERAL FLATTEN, calculate the total revenue (price) from all 
--- vehicles sold at each dealership. Include the dealership name.
+-- Using LATERAL FLATTEN, calculate the total revenue 
+-- (price) from all vehicles sold at each dealership. 
+-- Include the dealership name.
+
+select distinct
+    -- sale_id,
+    -- src:dealership as dealership,
+    pr.VALUE as promotion
+from car_sales,
+lateral flatten(input => SRC:promotions) pr;
+
+-- class example
 
 select 
-    * 
+    SRC:date as SALE_DATE,
+    SRC:vehicle[0].make as MAKE,
+    SRC:vehicle[0].model as MODEL,
+    SRC:vehicle[0].extras[0] as ONE_EXTRA,
+    SRC:vehicle[0].extras[1] as vehicle
+    
 from car_sales 
 limit 2;
-
