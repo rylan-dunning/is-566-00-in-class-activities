@@ -1,0 +1,175 @@
+film,name
+A New Hope,Luke Skywalker
+The Empire Strikes Back,Luke Skywalker
+Return of the Jedi,Luke Skywalker
+Revenge of the Sith,Luke Skywalker
+The Force Awakens,Luke Skywalker
+A New Hope,C-3PO
+The Empire Strikes Back,C-3PO
+Return of the Jedi,C-3PO
+The Phantom Menace,C-3PO
+Attack of the Clones,C-3PO
+Revenge of the Sith,C-3PO
+A New Hope,R2-D2
+The Empire Strikes Back,R2-D2
+Return of the Jedi,R2-D2
+The Phantom Menace,R2-D2
+Attack of the Clones,R2-D2
+Revenge of the Sith,R2-D2
+The Force Awakens,R2-D2
+A New Hope,Darth Vader
+The Empire Strikes Back,Darth Vader
+Return of the Jedi,Darth Vader
+Revenge of the Sith,Darth Vader
+A New Hope,Leia Organa
+The Empire Strikes Back,Leia Organa
+Return of the Jedi,Leia Organa
+Revenge of the Sith,Leia Organa
+The Force Awakens,Leia Organa
+A New Hope,Owen Lars
+Attack of the Clones,Owen Lars
+Revenge of the Sith,Owen Lars
+A New Hope,Beru Whitesun Lars
+Attack of the Clones,Beru Whitesun Lars
+Revenge of the Sith,Beru Whitesun Lars
+A New Hope,R5-D4
+A New Hope,Biggs Darklighter
+A New Hope,Obi-Wan Kenobi
+The Empire Strikes Back,Obi-Wan Kenobi
+Return of the Jedi,Obi-Wan Kenobi
+The Phantom Menace,Obi-Wan Kenobi
+Attack of the Clones,Obi-Wan Kenobi
+Revenge of the Sith,Obi-Wan Kenobi
+The Phantom Menace,Anakin Skywalker
+Attack of the Clones,Anakin Skywalker
+Revenge of the Sith,Anakin Skywalker
+A New Hope,Wilhuff Tarkin
+Revenge of the Sith,Wilhuff Tarkin
+A New Hope,Chewbacca
+The Empire Strikes Back,Chewbacca
+Return of the Jedi,Chewbacca
+Revenge of the Sith,Chewbacca
+The Force Awakens,Chewbacca
+A New Hope,Han Solo
+The Empire Strikes Back,Han Solo
+Return of the Jedi,Han Solo
+The Force Awakens,Han Solo
+A New Hope,Greedo
+A New Hope,Jabba Desilijic Tiure
+Return of the Jedi,Jabba Desilijic Tiure
+The Phantom Menace,Jabba Desilijic Tiure
+A New Hope,Wedge Antilles
+The Empire Strikes Back,Wedge Antilles
+Return of the Jedi,Wedge Antilles
+A New Hope,Jek Tono Porkins
+The Empire Strikes Back,Yoda
+Return of the Jedi,Yoda
+The Phantom Menace,Yoda
+Attack of the Clones,Yoda
+Revenge of the Sith,Yoda
+The Empire Strikes Back,Palpatine
+Return of the Jedi,Palpatine
+The Phantom Menace,Palpatine
+Attack of the Clones,Palpatine
+Revenge of the Sith,Palpatine
+The Empire Strikes Back,Boba Fett
+Return of the Jedi,Boba Fett
+Attack of the Clones,Boba Fett
+The Empire Strikes Back,IG-88
+The Empire Strikes Back,Bossk
+The Empire Strikes Back,Lando Calrissian
+Return of the Jedi,Lando Calrissian
+The Empire Strikes Back,Lobot
+Return of the Jedi,Ackbar
+The Force Awakens,Ackbar
+Return of the Jedi,Mon Mothma
+Return of the Jedi,Arvel Crynyd
+Return of the Jedi,Wicket Systri Warrick
+Return of the Jedi,Nien Nunb
+The Phantom Menace,Qui-Gon Jinn
+The Phantom Menace,Nute Gunray
+Attack of the Clones,Nute Gunray
+Revenge of the Sith,Nute Gunray
+The Phantom Menace,Finis Valorum
+The Phantom Menace,Padmé Amidala
+Attack of the Clones,Padmé Amidala
+Revenge of the Sith,Padmé Amidala
+The Phantom Menace,Jar Jar Binks
+Attack of the Clones,Jar Jar Binks
+The Phantom Menace,Roos Tarpals
+The Phantom Menace,Rugor Nass
+The Phantom Menace,Ric Olié
+The Phantom Menace,Watto
+Attack of the Clones,Watto
+The Phantom Menace,Sebulba
+The Phantom Menace,Quarsh Panaka
+The Phantom Menace,Shmi Skywalker
+Attack of the Clones,Shmi Skywalker
+The Phantom Menace,Darth Maul
+Return of the Jedi,Bib Fortuna
+The Phantom Menace,Ayla Secura
+Attack of the Clones,Ayla Secura
+Revenge of the Sith,Ayla Secura
+The Phantom Menace,Ratts Tyerel
+The Phantom Menace,Dud Bolt
+The Phantom Menace,Gasgano
+The Phantom Menace,Ben Quadinaros
+The Phantom Menace,Mace Windu
+Attack of the Clones,Mace Windu
+Revenge of the Sith,Mace Windu
+The Phantom Menace,Ki-Adi-Mundi
+Attack of the Clones,Ki-Adi-Mundi
+Revenge of the Sith,Ki-Adi-Mundi
+The Phantom Menace,Kit Fisto
+Attack of the Clones,Kit Fisto
+Revenge of the Sith,Kit Fisto
+The Phantom Menace,Eeth Koth
+Revenge of the Sith,Eeth Koth
+The Phantom Menace,Adi Gallia
+Revenge of the Sith,Adi Gallia
+The Phantom Menace,Saesee Tiin
+Revenge of the Sith,Saesee Tiin
+The Phantom Menace,Yarael Poof
+The Phantom Menace,Plo Koon
+Attack of the Clones,Plo Koon
+Revenge of the Sith,Plo Koon
+The Phantom Menace,Mas Amedda
+Attack of the Clones,Mas Amedda
+Attack of the Clones,Gregar Typho
+Attack of the Clones,Cordé
+Attack of the Clones,Cliegg Lars
+Attack of the Clones,Poggle the Lesser
+Revenge of the Sith,Poggle the Lesser
+Attack of the Clones,Luminara Unduli
+Revenge of the Sith,Luminara Unduli
+Attack of the Clones,Barriss Offee
+Attack of the Clones,Dormé
+Attack of the Clones,Dooku
+Revenge of the Sith,Dooku
+Attack of the Clones,Bail Prestor Organa
+Revenge of the Sith,Bail Prestor Organa
+Attack of the Clones,Jango Fett
+Attack of the Clones,Zam Wesell
+Attack of the Clones,Dexter Jettster
+Attack of the Clones,Lama Su
+Attack of the Clones,Taun We
+Attack of the Clones,Jocasta Nu
+Attack of the Clones,R4-P17
+Attack of the Clones,R4-P17
+Revenge of the Sith,R4-P17
+Attack of the Clones,Wat Tambor
+Attack of the Clones,San Hill
+Attack of the Clones,Shaak Ti
+Revenge of the Sith,Shaak Ti
+Revenge of the Sith,Grievous
+Revenge of the Sith,Tarfful
+A New Hope,Raymus Antilles
+Revenge of the Sith,Raymus Antilles
+Attack of the Clones,Sly Moore
+Revenge of the Sith,Sly Moore
+Revenge of the Sith,Tion Medon
+The Force Awakens,Finn
+The Force Awakens,Rey
+The Force Awakens,Poe Dameron
+The Force Awakens,BB8
+The Force Awakens,Captain Phasma

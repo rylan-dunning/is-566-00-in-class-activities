@@ -1,0 +1,31 @@
+name,planet_id,relation_type,planet_name,climate,terrain,population,affiliation
+Qui-Gon Jinn,6,mission site,Naboo,temperate,"plains, water",450000000,Galactic Republic
+Nute Gunray,11,homeworld,Geonosis,dry,rocky canyons,,Separatists
+Finis Valorum,2,residence,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Padmé Amidala,6,homeworld,Naboo,temperate,"plains, water",450000000,Galactic Republic
+Jar Jar Binks,6,homeworld,Naboo,temperate,"plains, water",450000000,Galactic Republic
+Roos Tarpals,6,homeworld,Naboo,temperate,"plains, water",450000000,Galactic Republic
+Rugor Nass,6,homeworld,Naboo,temperate,"plains, water",450000000,Galactic Republic
+Ric Olié,6,homeworld,Naboo,temperate,"plains, water",450000000,Galactic Republic
+Watto,1,residence,Tatooine,arid,desert,200000,Outer Rim Territories
+Sebulba,1,residence,Tatooine,arid,desert,200000,Outer Rim Territories
+Quarsh Panaka,6,homeworld,Naboo,temperate,"plains, water",450000000,Galactic Republic
+Shmi Skywalker,1,residence,Tatooine,arid,desert,200000,Outer Rim Territories
+Darth Maul,14,training site,Malachor,dark,ruins,,Sith Empire
+Bib Fortuna,1,residence,Tatooine,arid,desert,200000,Outer Rim Territories
+Ayla Secura,10,homeworld,Kashyyyk,humid,"jungles, forests",45000000,Wookiee Homeworld
+Mace Windu,2,residence,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Ki-Adi-Mundi,2,residence,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Kit Fisto,2,residence,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Grievous,11,base of operations,Geonosis,dry,rocky canyons,,Separatists
+Cliegg Lars,1,residence,Tatooine,arid,desert,200000,Outer Rim Territories
+Poggle the Lesser,11,homeworld,Geonosis,dry,rocky canyons,,Separatists
+Luminara Unduli,10,homeworld,Kashyyyk,humid,"jungles, forests",45000000,Wookiee Homeworld
+Barriss Offee,10,homeworld,Kashyyyk,humid,"jungles, forests",45000000,Wookiee Homeworld
+Dormé,6,residence,Naboo,temperate,"plains, water",450000000,Galactic Republic
+Dooku,14,training site,Malachor,dark,ruins,,Sith Empire
+Bail Prestor Organa,7,homeworld,Alderaan,temperate,mountains,2000000000,Galactic Republic
+Jango Fett,8,residence,Kamino,rainy,oceans,,Galactic Republic
+Zam Wesell,2,last known location,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Dexter Jettster,2,residence,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Lama Su,8,homeworld,Kamino,rainy,oceans,,Galactic Republic
