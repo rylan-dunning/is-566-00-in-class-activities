@@ -1,0 +1,31 @@
+name,planet_id,relation_type,planet_name,climate,terrain,population,affiliation
+Taun We,8,homeworld,Kamino,rainy,oceans,,Galactic Republic
+Jocasta Nu,2,residence,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+R4-P17,2,assignment location,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Wat Tambor,11,base of operations,Geonosis,dry,rocky canyons,,Separatists
+San Hill,11,base of operations,Geonosis,dry,rocky canyons,,Separatists
+Shaak Ti,2,assignment location,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Tarfful,10,homeworld,Kashyyyk,humid,"jungles, forests",45000000,Wookiee Homeworld
+Raymus Antilles,7,residence,Alderaan,temperate,mountains,2000000000,Galactic Republic
+Sly Moore,2,residence,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Tion Medon,16,homeworld,Ilum,frozen,icy canyons,,Jedi Order
+Finn,12,last known location,Jakku,arid,desert,100000,Outer Rim Territories
+Rey,12,homeworld,Jakku,arid,desert,100000,Outer Rim Territories
+Poe Dameron,17,base of operations,Dantooine,temperate,plains,,Rebel Alliance
+BB8,12,escape point,Jakku,arid,desert,100000,Outer Rim Territories
+Captain Phasma,15,stationed at,Scarif,tropical,"beaches, islands",,Galactic Empire
+Mas Amedda,2,residence,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Gregar Typho,6,residence,Naboo,temperate,"plains, water",450000000,Galactic Republic
+Cordé,6,residence,Naboo,temperate,"plains, water",450000000,Galactic Republic
+Ben Quadinaros,1,residence,Tatooine,arid,desert,200000,Outer Rim Territories
+Ratts Tyerel,1,residence,Tatooine,arid,desert,200000,Outer Rim Territories
+Dud Bolt,1,residence,Tatooine,arid,desert,200000,Outer Rim Territories
+Gasgano,1,residence,Tatooine,arid,desert,200000,Outer Rim Territories
+Mace Windu,2,assignment location,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Ki-Adi-Mundi,2,assignment location,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Kit Fisto,2,assignment location,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Eeth Koth,2,assignment location,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Adi Gallia,2,assignment location,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Saesee Tiin,2,assignment location,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Yarael Poof,2,assignment location,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Plo Koon,2,assignment location,Coruscant,temperate,cityscape,1000000000,Galactic Republic

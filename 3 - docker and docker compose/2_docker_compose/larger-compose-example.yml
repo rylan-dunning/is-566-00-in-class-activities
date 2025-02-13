@@ -1,0 +1,28 @@
+services:
+  app:
+    build: path/to/dir/.  # the build attribute means the image will come from a locally managed Dockerfile image
+    container_name: my_app_container # provides a human-friendly name for the container
+    volumes:
+      - some_dir:/app  # Mounts the some_dir directory into the container 
+    environment:
+      - DEBUG=true # this is how you set environment variables that are needed within this container
+    depends_on:
+      - db  # Ensures that this app will wait to start until the database service starts
+    ports:
+      - "5000:8000"  # Maps HOST port 5000 to CONTAINER port 8000
+
+  db:
+    image: postgres:latest  # Uses the official PostgreSQL image, pulled from DockerHub rather than a local Dockerfile
+    container_name: my_postgres_db # provides a human-friendly name for the container
+    restart: always  # Ensures the container restarts on failure
+    environment: # this is how you set environment variables that are needed within this container
+      POSTGRES_USER: myuser
+      POSTGRES_PASSWORD: mypassword
+      POSTGRES_DB: mydatabase
+    volumes:
+      - db_data:/var/lib/postgresql/data  # Persists database data using the volume below
+    command: ["postgres", "-c", "log_statement=all"] # for images pulled from DockerHub (for which you don't have a Dockerfile ending in CMD), you can still run commands like this
+
+
+volumes:
+  db_data:  # Defines a named volume for database persistence

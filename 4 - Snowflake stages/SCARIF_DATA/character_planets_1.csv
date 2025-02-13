@@ -1,0 +1,31 @@
+name,planet_id,relation_type,planet_name,climate,terrain,population,affiliation
+Luke Skywalker,1,homeworld,Tatooine,arid,desert,200000,Outer Rim Territories
+C-3PO,1,creation site,Tatooine,arid,desert,200000,Outer Rim Territories
+R2-D2,6,service origin,Naboo,temperate,"plains, water",450000000,Galactic Republic
+Darth Vader,1,homeworld,Tatooine,arid,desert,200000,Outer Rim Territories
+Leia Organa,7,homeworld,Alderaan,temperate,mountains,2000000000,Galactic Republic
+Owen Lars,1,residence,Tatooine,arid,desert,200000,Outer Rim Territories
+Beru Whitesun Lars,1,residence,Tatooine,arid,desert,200000,Outer Rim Territories
+R5-D4,1,residence,Tatooine,arid,desert,200000,Outer Rim Territories
+Biggs Darklighter,1,homeworld,Tatooine,arid,desert,200000,Outer Rim Territories
+Obi-Wan Kenobi,1,hiding place,Tatooine,arid,desert,200000,Outer Rim Territories
+Anakin Skywalker,1,homeworld,Tatooine,arid,desert,200000,Outer Rim Territories
+Wilhuff Tarkin,2,residence,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Chewbacca,10,homeworld,Kashyyyk,humid,"jungles, forests",45000000,Wookiee Homeworld
+Han Solo,20,last seen at,Bespin,temperate,gas clouds,,Cloud City
+Greedo,1,residence,Tatooine,arid,desert,200000,Outer Rim Territories
+Jabba Desilijic Tiure,1,residence,Tatooine,arid,desert,200000,Outer Rim Territories
+Wedge Antilles,19,base of operations,Yavin 4,tropical,"jungles, ruins",,Rebel Alliance
+Jek Tono Porkins,19,base of operations,Yavin 4,tropical,"jungles, ruins",,Rebel Alliance
+Yoda,3,hiding place,Dagobah,humid,swamp,,Neutral
+Palpatine,2,residence,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Boba Fett,9,last seen at,Mustafar,hot,volcanoes,,Sith Empire
+IG-88,2,mission site,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Bossk,2,mission site,Coruscant,temperate,cityscape,1000000000,Galactic Republic
+Lando Calrissian,20,homeworld,Bespin,temperate,gas clouds,,Cloud City
+Lobot,20,residence,Bespin,temperate,gas clouds,,Cloud City
+Ackbar,17,base of operations,Dantooine,temperate,plains,,Rebel Alliance
+Mon Mothma,17,rebel base,Dantooine,temperate,plains,,Rebel Alliance
+Arvel Crynyd,19,base of operations,Yavin 4,tropical,"jungles, ruins",,Rebel Alliance
+Wicket Systri Warrick,5,homeworld,Endor,temperate,forests,30000,Neutral
+Nien Nunb,20,base of operations,Bespin,temperate,gas clouds,,Cloud City
