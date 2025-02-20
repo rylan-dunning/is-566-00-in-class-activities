@@ -1,6 +1,24 @@
 // Practice Queries
 // Connection string: mongodb://root:password@localhost:27017/
 
+const sampleUser = {
+    _id: ObjectId('67b775d867d4d09a405c4497'),
+    name: 'Alice',
+    age: 32,
+    city: 'Dallas',
+    hobbies: [
+      'swimming',
+      'coding',
+      'traveling'
+    ],
+    occupation: 'Doctor',
+    is_active: true,
+    account_balance: 7628.49,
+    created_at: '2020-04-06'
+  };
+
+
+
 // Find a single document for a user named "Emma."
 // Hint: Use findOne() to retrieve only one document.
 
