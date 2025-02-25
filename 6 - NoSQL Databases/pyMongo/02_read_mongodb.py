@@ -1,7 +1,7 @@
 import pymongo
 
 myclient = pymongo.MongoClient("mongodb://localhost:27017/",username='root',password='password')
-mydb = myclient["test"]
+mydb = myclient["inclass"]
 mycol = mydb["thiscollection"]
 
 # find these documents where the customer_id equals A85123
