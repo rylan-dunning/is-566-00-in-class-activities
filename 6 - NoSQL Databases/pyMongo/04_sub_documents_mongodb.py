@@ -24,7 +24,7 @@ def insert_multiple():
     # this is the id field of the new document
     print(x.inserted_ids) 
 
-#insert_multiple()
+insert_multiple()
 
 def query_sub_document():
     # find these documents where the StockCode is 21791
@@ -39,7 +39,7 @@ def query_sub_document():
     for x in mydoc:
         print(x)
 
-#query_sub_document()
+query_sub_document()
 
 
 # update a stock code of a sub document
