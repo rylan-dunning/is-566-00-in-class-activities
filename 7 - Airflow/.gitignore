@@ -1,0 +1,7 @@
+.DS_Store
+.hidden/
+admin/
+logs/
+__pycache__/
+airflow/
+*_sol.py

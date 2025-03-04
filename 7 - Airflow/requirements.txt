@@ -1,0 +1,4 @@
+pendulum
+apache-airflow
+psycopg2
+pandas

@@ -1,0 +1,17 @@
+# Save this file using "File >> Save As" to C:\Users\[your username]\.wslconfig
+# Then you can tweak the memory/processor settings using the bottom three options
+# Note that before your changes will take effect, you'll have to completely quit 
+# Docker Desktop, then wait until "VmmemWSL" disappears from the task manager,
+# then start up Docker again.
+
+
+[wsl2]
+
+# Limits VM memory to use no more than 4 GB, this can be set as whole numbers using GB or MB
+memory=12GB 
+
+# Sets the VM to use two virtual processors
+processors=4
+
+# Sets amount of swap storage space to 8GB, default is 25% of available RAM
+swap=8GB
